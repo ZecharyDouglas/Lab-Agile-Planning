@@ -14,7 +14,16 @@ assignees: ''
  ### Details and Assumptions
  * [document what you know]
    
- ### Acceptance Criteria  
+ ### Acceptance Criteria 
+ ```
+User stories should follow the INVEST standard
+Independent
+Negotiable
+Valuable
+Estimatable
+Small
+Testable 
+ ```
    
  ```gherkin
  Given [some context]
